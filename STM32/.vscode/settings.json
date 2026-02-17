@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "type_traits": "cpp",
+        "stdio.h": "c",
+        "stm32g0xx.h": "c",
+        "usart.h": "c",
+        "i2c_low.h": "c",
+        "servo.h": "c"
+    }
+}
